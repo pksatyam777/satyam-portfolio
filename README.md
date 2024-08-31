@@ -3,6 +3,7 @@
 </p>
 
 ---
+
 # [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
 
 ---
@@ -115,10 +116,10 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "SATYAM SINGH",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
+  description: "My name is SATYAM SINGH....",
   email: "abusaid7388@gmail.com",
   phone: "+8801608797655",
   address: "Dhaka, Bangladesh",
