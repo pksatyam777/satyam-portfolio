@@ -124,9 +124,10 @@ export const personalData = {
   phone: "+91 8767214838",
   address: "magarpatta , pune",
   github: "https://github.com/pksatyam777",
-  
+
   linkedIn: "https://www.linkedin.com/in/pksatyam777/",
-  resume: "...",
+  resume:
+    "https://drive.google.com/file/d/1_cYjBQg5GbPxEi468d5cMTqhYmlh6-y1/view?usp=sharing",
 };
 ```
 
