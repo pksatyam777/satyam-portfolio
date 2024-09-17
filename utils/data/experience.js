@@ -35,4 +35,10 @@ export const experiences = [
     company: "Freespace (Workplace fabric)",
     duration: "(Jul 2021 - jul 2023)",
   },
+  {
+    id: 4,
+    title: "Jr.Software Engineer (Internship)",
+    company: "Digikull",
+    duration: "(oct 2020 - jun 2021)",
+  },
 ];
