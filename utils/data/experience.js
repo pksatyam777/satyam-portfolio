@@ -41,4 +41,5 @@ export const experiences = [
     company: "Digikull",
     duration: "(oct 2020 - jun 2021)",
   },
+  //
 ];
